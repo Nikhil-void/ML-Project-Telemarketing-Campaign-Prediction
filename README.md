@@ -22,13 +22,13 @@ This problem is particularly interesting to me because I was trying do a similar
 
 
 Details of project (More inside Notebook)
-![Details]()
+![Details](https://github.com/Nikhil-void/Project-Telemarketing-Campaign-Prediction/blob/main/Details.png)
 
 Some of the graphs  (Inference provided inside) 
-![graph1]()
-![graph2]()
+![graph1](https://github.com/Nikhil-void/Project-Telemarketing-Campaign-Prediction/blob/main/Graphs.png)
+![graph2](https://github.com/Nikhil-void/Project-Telemarketing-Campaign-Prediction/blob/main/Skewness_Graph.png)
 
 Results and accuracy assessment 
-![result1]()
-![result2]()
+![result1](https://github.com/Nikhil-void/Project-Telemarketing-Campaign-Prediction/blob/main/Intermediate_Result.png)
+![result2](https://github.com/Nikhil-void/Project-Telemarketing-Campaign-Prediction/blob/main/Final_Result.png)
 
